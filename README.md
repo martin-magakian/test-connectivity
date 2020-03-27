@@ -1,2 +1,3 @@
 # test-connectivity
-Proto to investigate networking issues
+
+Quick and durty prototype to test my connection over a day
